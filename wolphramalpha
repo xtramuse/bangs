@@ -1,0 +1,7 @@
+[
+	{
+		"key": "wa",
+		"name": "wolframalpha",
+		"url": "https://www.wolframalpha.com/input/?i=%s"
+	}
+]
